@@ -10,6 +10,7 @@ Processes user reviews (text feedback, ratings, and review dates).
 Performs sentiment analysis to classify reviews into Positive, Negative, or Neutral categories.
 Visualizes trends over time to track user sentiment evolution.
 Calculates the Net Promoter Score (NPS) to measure user loyalty and satisfaction.
+
 🛠️ Features
 ----------------------------------
 Sentiment Analysis
@@ -27,6 +28,7 @@ Differentiates between frequently occurring themes in Positive and Negative feed
 Net Promoter Score (NPS)
 
 Calculates an NPS of 64.35, indicating a strong inclination of users to recommend ChatGPT.
+
 📊 Dataset
 ----------------------------------
 The analysis uses a hypothetical dataset consisting of:
@@ -38,8 +40,6 @@ Feel free to replace this dataset with your own to conduct custom analyses.
 
 🖥️ Installation and Setup
 ----------------------------------
-Prerequisites
-----------------------------------
 Ensure you have Python 3.7+ installed along with the following libraries:
 
 pandas
@@ -47,6 +47,7 @@ matplotlib
 seaborn
 textblob
 numpy
+
 Clone the Repository
 ----------------------------------
 git clone https://github.com/thiruvanth04/chatgpt_reviews_analysis.git  
@@ -56,20 +57,25 @@ cd chatgpt-review-analysis
 ----------------------------------
 Positive Reviews: Majority sentiment, indicating a favorable perception.
 Negative Reviews: Highlight issues like performance glitches and response quality.
+
 🌟 Positive Feedback Highlights
 ----------------------------------
 Common phrases include "great app", "user-friendly", and "educational".
+
 ⚠️ Negative Feedback Highlights
 ----------------------------------
 Issues like "doesn't work" and "error occurred" frequently appear.
+
 🕒 Trends Over Time
 ----------------------------------
 A steady increase in positive sentiment over time, peaking in early 2024.
+
 📚 Future Scope
 ----------------------------------
 Integrate advanced NLP models like BERT for improved sentiment detection.
 Develop a dashboard to interactively explore review insights.
 Expand the analysis to include additional metrics such as response time and feature requests.
+
 🤝 Contributing
 ----------------------------------
 Contributions are welcome! Follow these steps:
@@ -79,6 +85,7 @@ Create a new branch (git checkout -b feature/YourFeature).
 Commit your changes (git commit -m 'Add your feature').
 Push to the branch (git push origin feature/YourFeature).
 Open a pull request.
+
 📜 License
 ----------------------------------
 This project is licensed under the MIT License - see the LICENSE file for details.
@@ -92,6 +99,7 @@ Feel free to connect for feedback, ideas, or collaboration opportunities!
 ----------------------------------
 Inspired by the continuous evolution of AI-powered tools like ChatGPT.
 Thanks to the open-source community for their invaluable resources.
+
 🎯 Show Your Support
 ----------------------------------
 If you find this repository useful, please ⭐ Star this repository to show your support!
