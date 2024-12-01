@@ -1,3 +1,4 @@
+
 🚀 ChatGPT User Review Analysis
 ----------------------------------
 Welcome to the ChatGPT User Review Analysis repository! This project dives deep into the sentiment and feedback of ChatGPT users, aiming to uncover valuable insights to enhance its overall user experience. By leveraging Python and powerful NLP tools, this analysis not only identifies areas of excellence but also sheds light on opportunities for improvement.
@@ -51,7 +52,7 @@ numpy
 Clone the Repository
 ----------------------------------
 git clone https://github.com/thiruvanth04/chatgpt_reviews_analysis.git  
-cd chatgpt-review-analysis  
+cd chatgpt_reviews_analysis
 
 📈 Sentiment Distribution
 ----------------------------------
@@ -90,10 +91,6 @@ Open a pull request.
 ----------------------------------
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-🧑‍💻 Author
-----------------------------------
-Developed by Your Thiruvanth.
-Feel free to connect for feedback, ideas, or collaboration opportunities!
 
 ⭐ Acknowledgments
 ----------------------------------
@@ -105,3 +102,4 @@ Thanks to the open-source community for their invaluable resources.
 If you find this repository useful, please ⭐ Star this repository to show your support!
 
 Feel free to raise issues or open discussions for queries and suggestions. 😊
+----------------------------------
